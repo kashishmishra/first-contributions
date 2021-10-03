@@ -14,6 +14,7 @@
 - [Poorva Gupta] (https://github.com/poorvaa18)
 - [SK MIRAJ] (https://github.com/miraj0507)
 - [ba-13] (https://github.com/ba-13)
+- Kashish Mishra
 - [Shruthi Pillai] (https://github.com/shrum99)
 - [marenga julius](https://github.com/marenga14)
 - [Noemi Andras] (https://github.com/noemiandras)
@@ -210,6 +211,7 @@ tayo360
 - [Atul](https://github.com/atulk0)
 - [Minku Singh](https://github.com/minku-singh)
 - [Connor Lawson](https://github.com/lawsoncr/)
+- 
 <!-- Muhammad Faizan-->
 - [Shresth](https://github.com/Shresth-Jain/ )
 - [MilanAgrawal](https://github.com/MilanAgrawal)
